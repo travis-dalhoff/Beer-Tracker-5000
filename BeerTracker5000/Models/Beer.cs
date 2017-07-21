@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace BeerTracker5000.Models
 {
+    // Beer Data Model Class --- Defines properties of data stored in database
+    // Use [Display] to set the display name of the property in the View
     public class Beer
     {
         public int ID { get; set; }

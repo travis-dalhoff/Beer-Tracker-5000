@@ -9,6 +9,7 @@ using BeerTracker5000.Models;
 
 namespace BeerTracker5000.Controllers
 {
+    //Beer Controllers  ----  Coordinates URL requests, retrieve data, and call view templates for the CRUD portion of App
     public class BeersController : Controller
     {
         private readonly BeerTracker5000Context _context;

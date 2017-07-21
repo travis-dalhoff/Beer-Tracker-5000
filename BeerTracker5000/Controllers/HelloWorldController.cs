@@ -7,7 +7,7 @@ using System.Text.Encodings.Web;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace BeerTracker5000.Controllers
+/*namespace BeerTracker5000.Controllers
 {
     public class HelloWorldController : Controller
     {
@@ -24,4 +24,4 @@ namespace BeerTracker5000.Controllers
             return View();
         }
     }
-}
+}*/
