@@ -18,7 +18,7 @@ namespace BeerTracker5000.Models
         public string Style { get; set; }
         public decimal Abv { get; set; }
         public int Ibu { get; set; }
-        //public int Rating { get; set; }
+        public int Rating { get; set; }
         public string Notes { get; set; }
     }
 }
